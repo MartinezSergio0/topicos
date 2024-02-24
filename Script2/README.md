@@ -1,2 +1,2 @@
 # Descripcion
-Este codigo de JavaScript genera 10 contenedores 'div' con una altura de 100 pixeles basandose en el Scrip1 con la diferencia de que la lista de colores contiene 20 elementos y los colores no se repetiran mas de una vez.Los contenedores son agregados al cuerpo de un documento HTML
+Este codigo de JavaScript genera 10 contenedores 'div' con una altura de 100 pixeles basandose en el Script1 con la diferencia de que la lista de colores contiene 20 elementos y los colores no se repetiran mas de una vez. Los contenedores son agregados al cuerpo de un documento HTML
