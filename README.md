@@ -1,1 +1,1 @@
-Repositorio dedicado a la materia de Topicos Avanzados
+Repositorio dedicado a la materia de Topicos Avanzados de Martinez Rubalcaba Sergio Guadalupe.
